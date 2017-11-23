@@ -1,4 +1,0 @@
-Only temp.
-
-Compile each .cpp file, then run:
-g++ -o Game Main.o ./Entity/Entity.o ./Entity/Attackers.o ./Entity/Healers.o -lsfml-graphics -lsfml-window -lsfml-system 
