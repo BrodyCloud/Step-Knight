@@ -1,3 +1,0 @@
-/home/brody/Documents/Dev/CPP/Step-Knight/CMakeFiles/rebuild_cache.dir
-/home/brody/Documents/Dev/CPP/Step-Knight/CMakeFiles/edit_cache.dir
-/home/brody/Documents/Dev/CPP/Step-Knight/CMakeFiles/StepKnight.dir
